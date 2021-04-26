@@ -1,6 +1,9 @@
 <div align="center">
+  
   <img src="logo.png">
+  
 </div>
+
 
 # Welcome to our Introduction to Machine Learning Course Repo!
 
