@@ -34,3 +34,4 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 ## Certification Example
 ![Certificate](mlCertificate.png)
+ Nizam Doğan Çınar
